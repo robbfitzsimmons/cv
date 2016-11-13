@@ -1,0 +1,9 @@
+[submodule "robbfitzsimmons"]
+	path = robbfitzsimmons
+	url = git@github.com:robbfitzsimmons/robbfitzsimmons.git
+[submodule "public/public"]
+	path = public/public
+	url = git@github.com:robbfitzsimmons/robbfitzsimmons.git
+[submodule "public"]
+	path = public
+	url = git@github.com:robbfitzsimmons/robbfitzsimmons.git
